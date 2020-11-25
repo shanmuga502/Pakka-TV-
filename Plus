@@ -30,14 +30,14 @@ http://156.146.43.241:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=veera4utv
 
 
 #EXTINF:8, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Zee Tamil"  group-title="Tamil",Zee Tamil
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48008
+http://156.146.43.241:2200/R-EX/TAMIL_ZEE_TAMIL_SD-in/index.m3u8?token=veera4utv
 
 #EXTINF:9, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Zee Thirai"  group-title="Tamil",Zee Thirai
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48043
+http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/index.m3u8?token=veera4utv
 
 
 #EXTINF:10, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Music HD"  group-title="Tamil",Sun Music HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48013
+http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/chunklist_w601757641.m3u8
 
 #EXTINF:11, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Life"  group-title="Tamil",Sun Life
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48021
@@ -48,12 +48,12 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48022
 
 
 #EXTINF:13, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Tv"  group-title="Tamil",Raj Tv
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48041
+http://156.146.43.241:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=RED
 
 
 
 #EXTINF:14, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Digital Plus"  group-title="Tamil",Raj Digital Plus
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48039
+http://156.146.43.241:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=veera4utv
 
 #EXTINF:15, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj News"  group-title="Tamil",Raj News
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48036
