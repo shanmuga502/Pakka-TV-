@@ -1,0 +1,293 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv HD"  group-title="Tamil",Sun Tv HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48012
+
+
+
+#EXTINF:2, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv SD"  group-title="Tamil",Sun Tv SD
+tv:http://tamilgo.com/api1cdn/nxt/snxt.m3u8?uid=Raj619_1459852&id=9016&e=.m3u8
+
+#EXTINF:3, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv HD"  group-title="Tamil",K Tv HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48014
+
+#EXTINF:4, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv SD"  group-title="Tamil",K Tv SD
+http://tamilgo.com/api1cdn/nxt/snxt.m3u8?uid=Raj619_1459852&id=32138&e=.m3u8
+
+#EXTINF:5, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Adithya Tv"  group-title="Tamil",Adithya Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48024
+
+
+
+#EXTINF:6, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Tv  HD"  group-title="Tamil",Vijay Tv  HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48006
+
+
+
+#EXTINF:7, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Super"  group-title="Tamil",Vijay Super
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48007
+
+
+
+#EXTINF:8, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Zee Tamil"  group-title="Tamil",Zee Tamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48008
+
+#EXTINF:9, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Zee Thirai"  group-title="Tamil",Zee Thirai
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48043
+
+
+#EXTINF:10, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Music HD"  group-title="Tamil",Sun Music HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48013
+
+#EXTINF:11, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Life"  group-title="Tamil",Sun Life
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48021
+
+#EXTINF:12, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun News"  group-title="Tamil",Sun News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48022
+
+
+
+#EXTINF:13, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Tv"  group-title="Tamil",Raj Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48041
+
+
+
+#EXTINF:14, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Digital Plus"  group-title="Tamil",Raj Digital Plus
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48039
+
+#EXTINF:15, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj News"  group-title="Tamil",Raj News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48036
+
+
+
+#EXTINF:16, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Music"  group-title="Tamil",Raj Music
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48044
+
+
+
+#EXTINF:17, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Tv"  group-title="Tamil",Jaya Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48010
+
+
+
+#EXTINF:18, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Plus"  group-title="Tamil",Jaya Plus
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48023
+
+#EXTINF:19, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Movies"  group-title="Tamil",Jaya Movies
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48052
+
+
+
+#EXTINF:20, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Max"  group-title="Tamil",Jaya Max
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48069
+
+#EXTINF:21, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="TataSky Tamil Cinema"  group-title="Tamil",TataSky Tamil Cinema
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48015
+
+
+
+#EXTINF:22, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Colors Tamil"  group-title="Tamil",Colors Tamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48020
+
+
+
+#EXTINF:23, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer Tv"  group-title="Tamil",Polimer Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48040
+
+#EXTINF:24, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer News"  group-title="Tamil",Polimer News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48033
+
+
+
+#EXTINF:25, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Captain Tv"  group-title="Tamil",Captain Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48056
+
+
+
+#EXTINF:26, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Captain News"  group-title="Tamil",Captain News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48055
+
+
+
+#EXTINF:23, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vasanth Tv"  group-title="Tamil",Vasanth Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48026
+
+
+
+#EXTINF:24, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Puthuyugam"  group-title="Tamil",Puthuyugam
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48029
+
+
+
+#EXTINF:25, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vendhar Tv"  group-title="Tamil",Vendhar Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48034
+
+#EXTINF:26, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Mathimugam"  group-title="Tamil",Mathimugam
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48035
+
+#EXTINF:27, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Makkal Tv"  group-title="Tamil",Makkal Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48038
+
+#EXTINF:28, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sathiyam Tv"  group-title="Tamil",Sathiyam Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48037
+
+#EXTINF:29, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="DD Podhigai"  group-title="Tamil",DD Podhigai
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48042
+
+
+
+#EXTINF:30, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="DD Saptagiri"  group-title="Tamil",DD Saptagiri
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48025
+
+#EXTINF:31, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Thanthi Tv"  group-title="Tamil",Thanthi Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48030
+
+
+
+#EXTINF:32, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="News 18 Tamilnadu"  group-title="Tamil",News 18 Tamilnadu
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48045
+
+
+
+#EXTINF:33, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Cauvery News"  group-title="Tamil",Cauvery News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48046
+
+
+
+#EXTINF:34, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Lotus News"  group-title="Tamil",Lotus News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48048
+
+#EXTINF:35, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="News7Tamil"  group-title="Tamil",News7Tamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48049
+
+
+
+#EXTINF:36, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Puthiyathalaimurai"  group-title="Tamil",Puthiyathalaimurai
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48050
+
+#EXTINF:37, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Win News"  group-title="Tamil",Win News
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48058
+
+#EXTINF:38, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="MK Tv"  group-title="Tamil",MK Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48065
+
+#EXTINF:39, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="MK Music"  group-title="Tamil",MK Music
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48047
+
+#EXTINF:40, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Tune6"  group-title="Tamil",Tune6
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48062
+
+#EXTINF:41, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Angel Tv"  group-title="Tamil",Angel Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48054
+
+
+
+#EXTINF:42, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Nambikkai Tv"  group-title="Tamil",Nambikkai Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48057
+
+
+
+#EXTINF:43, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Velicham Plus"  group-title="Tamil",Velicham Plus
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48059
+
+#EXTINF:44, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Imayam Tv"  group-title="Tamil",Imayam Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48060
+
+
+
+#EXTINF:45, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Madha Tv"  group-title="Tamil",Madha Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48061
+
+
+
+#EXTINF:46, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Moon Tv"  group-title="Tamil",Moon Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48063
+
+#EXTINF:47, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="TVi HD"  group-title="Tamil",TVi HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48051
+
+#EXTINF:48, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Tamilan Tv"  group-title="Tamil",Tamilan Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48064
+
+#EXTINF:49, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Fox Life HD"  group-title="Tamil",Fox Life HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48019
+
+#EXTINF:50, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Salvation Tv"  group-title="Tamil",Salvation Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48066
+
+
+
+#EXTINF:51, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sahana Tv"  group-title="Tamil",Sahana Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48067
+
+
+
+#EXTINF:52, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Meenakshi Tv"  group-title="Tamil",Meenakshi Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48068
+
+#EXTINF:53, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Chutti Tv"  group-title="Tamil",Chutti Tv
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48027
+
+
+
+#EXTINF:54, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Discovery Kids"  group-title="Tamil",Discovery Kids
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48028
+
+
+
+#EXTINF:55, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sony Yay"  group-title="Tamil",Sony Yay
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48031
+
+
+#EXTINF:56, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Discovery Tamil"  group-title="Tamil",Discovery Tamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48011
+
+
+
+#EXTINF:57, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="National Geo"  group-title="Tamil",National Geo
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48016
+
+#EXTINF:58, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="BBC WorldTamil"  group-title="Tamil",BBC WorldTamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48017
+
+
+
+#EXTINF:59, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="History Tv18"  group-title="Tamil",History Tv18
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48018
+
+
+
+#EXTINF:60, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="National Geo Wild"  group-title="Tamil",National Geo Wild
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48009
+
+#EXTINF:61, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vinmeen Tv"  group-title="Tamil",Vinmeen Tv
+http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52366
+
+#EXTINF:62, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Star Sports Tamil"  group-title="Sports",Star Sports Tamil
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48005
+
+#EXTINF:63, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Star Sports"  group-title="Sports",Star Sports
+http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:64, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Astro Cricket"  group-title="Sports",Astro Cricket
+http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52370
+
+#EXTINF:65, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Ten Cricket"  group-title="Sports",Ten Cricket
+http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52369
+
+#EXTINF:66, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Fox Sports"  group-title="Sports",Fox Sports
+http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52367
+
+#EXTINF:67, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="IPL 2020"  group-title="Sports",IPL 2020
+http://213.202.233.66:8090/FT/15/index.m3u8?token=istreamiptv
+
+#EXTINF:68, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="WWE HD"  group-title="Sports",WWE HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=43750
+
+
+
+
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
