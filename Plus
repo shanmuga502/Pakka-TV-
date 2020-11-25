@@ -19,13 +19,13 @@ http://156.146.43.241:2200/R-EX/TAMIL_ADHTIYA_TV-in/index.m3u8?token=veera4utv
 
 
 
-#EXTINF:6, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Tv  HD"  group-title="Tamil",Vijay Tv  HD
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48006
+#EXTINF:6, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Colors Tamil  HD"  group-title="Tamil",Vijay Tv  HD
+http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:7, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Super"  group-title="Tamil",Vijay Super
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48007
+http://156.146.43.241:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=veera4utv
 
 
 
