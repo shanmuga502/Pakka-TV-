@@ -6,7 +6,7 @@ http://156.146.43.241:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=RED
 
 
 #EXTINF:2, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv UK"  group-title="Tamil",Sun Tv SD
-tv:http://jocke.webd.pro/shirak/iptv.php?id=48012&e=.m3u8
+http://jocke.webd.pro/shirak/iptv.php?id=48012&e=.m3u8
 
 #EXTINF:3, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv HD"  group-title="Tamil",K Tv HD
 http://156.146.43.241:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED
@@ -15,16 +15,16 @@ http://156.146.43.241:2200/R-EX/TAMIL_KTV_HD-in/index.m3u8?token=RED
 https://ritesh.ch:443/miniproxy/miniproxy.php/http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
 #EXTINF:5, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Adithya Tv"  group-title="Tamil",Adithya Tv
-http://156.146.43.241:2200/R-EX/TAMIL_ADHTIYA_TV-in/index.m3u8?token=veera4utv
+http://jocke.webd.pro/shirak/iptv.php?id=48024&e=.m3u8
 
 
 
-#EXTINF:6, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Colors Tamil  HD"  group-title="Tamil",Vijay Tv  HD
+#EXTINF:6, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Tv HD"  group-title="Tamil",Vijay Tv  HD
 http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=veera4utv
 
 
 
-#EXTINF:7, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Super"  group-title="Tamil",Colors Tamil
+#EXTINF:7, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Colors Tamil"  group-title="Tamil",Colors Tamil
 http://156.146.43.241:2200/R-EX/TAMIL_COLORS_HD-in/index.m3u8?token=veera4utv
 
 
