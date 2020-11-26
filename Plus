@@ -1,18 +1,18 @@
 ﻿#EXTM3U
 
 #EXTINF:1, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv HD"  group-title="Tamil",Sun Tv HD
-http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8?e=3
+http://156.146.43.241:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=RED
 
 
 
-#EXTINF:2, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv SD"  group-title="Tamil",Sun Tv SD
+#EXTINF:2, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Tv UK"  group-title="Tamil",Sun Tv SD
 tv:https://ritesh.ch:443/miniproxy/miniproxy.php/http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
 #EXTINF:3, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv HD"  group-title="Tamil",K Tv HD
-https://ritesh.ch:443/miniproxy/miniproxy.php/http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
+http://156.146.43.241:2200/R-EX/TAMIL_SUN_TV_HD-in/index.m3u8?token=RED
 
-#EXTINF:4, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv SD"  group-title="Tamil",K Tv SD
-http://tamilgo.com/api1cdn/nxt/snxt.m3u8?uid=Raj619_1459852&id=32138&e=.m3u8
+#EXTINF:4, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="K Tv SD"  group-title="Tamil",K Tv UK
+https://ritesh.ch:443/miniproxy/miniproxy.php/http://uk1.zecast.com:1935/star-live/ktv/chunklist_w866208673.m3u8
 
 #EXTINF:5, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Adithya Tv"  group-title="Tamil",Adithya Tv
 http://156.146.43.241:2200/R-EX/TAMIL_ADHTIYA_TV-in/index.m3u8?token=veera4utv
