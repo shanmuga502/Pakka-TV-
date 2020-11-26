@@ -284,247 +284,101 @@ http://213.202.233.66:8090/FT/15/index.m3u8?token=istreamiptv
 #EXTINF:68, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="WWE HD"  group-title="Sports",WWE HD
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=43750
 
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="",7Star TV(Salem)
-
+#EXTINF:69 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="local",7Star TV(Salem)
 http://7starcloud.com:1935/live/7star2/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="",7Star TV 
-
+#EXTINF:70 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/7 Star.png" group-title="local",7Star TV 
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/3-tamil.png" group-title="", 3 Tamil TV
-
-
+#EXTINF:71 tvg-id="" tvg-name="" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/3-tamil.png" group-title="local", 3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jnjnn-removebg-preview.png" group-title="",BlueMoon TV
-
+#EXTINF:72 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jnjnn-removebg-preview.png" group-title="local",BlueMoon TV
 http://stream.blackmoon.in:8000/bms/bmtv/bms.m3u8
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sana hd0000.png" group-title="",Sana TV
-
+#EXTINF:73 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sana hd0000.png" group-title="local",Sana TV
 http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/TAMIL TIMES RIGHT.png" group-title="",Tamil Times
-
+#EXTINF:74 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/TAMIL TIMES RIGHT.png" group-title="local",Tamil Times
 http://streamingbox.7starcloud.com:1935/jawahartv/tamiltimes/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/CTN Salem.PNG" group-title="",CTN
-
+#EXTINF:75 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/CTN Salem.PNG" group-title="local",CTN
 https://streamspace.live/hls/ctn/livestream.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/vani.png" group-title="",Vani TV HD
-
+#EXTINF:76 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/vani.png" group-title="local",Vani TV HD
 http://hdserver.7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://14.102.101.98/documents/logo.png" group-title="",CTN(Coonoor)
-
+#EXTINF:77 tvg-id="" tvg-name="" tvg-logo="http://14.102.101.98/documents/logo.png" group-title="local",CTN(Coonoor)
 http://stream.blackmoon.in:8000/ctn/ctn/bms.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/news.jpg" group-title="",Kalvi TV
-
-
+#EXTINF:78 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/news.jpg" group-title="local",Kalvi TV
 http://7starcloud.com:1935/live/kalvich/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Ammachannel_Logo 12_00026.png" group-title="",Amma Channel
-
-
+#EXTINF:79 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Ammachannel_Logo 12_00026.png" group-title="local",Amma Channel
 http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="",ACN Cinema
-
+#EXTINF:80 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/ACN CINEMA.png" group-title="local",ACN Cinema
 http://ammacable.com:1935/acn/acncinema/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abcmedias.com/ACN MUSIC LOGO_V2_00000.png" group-title="",ACN Music
-
-
+#EXTINF:81 tvg-id="" tvg-name="" tvg-logo="http://abcmedias.com/ACN MUSIC LOGO_V2_00000.png" group-title="local",ACN Music
 http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/B_ARASAN TV.png" group-title="",Arasan TV
-
-
+#EXTINF:82 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/B_ARASAN TV.png" group-title="local",Arasan TV
 http://ammacable.com:1935/acn/arasantv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" group-title="",Sathiyam News
-
-
+#EXTINF:83 tvg-id="" tvg-name="" tvg-logo="https://www.sathiyam.tv/wp-content/uploads/2018/10/sathiyam-logo-272.jpg" group-title="local",Sathiyam News
 http://hdserver.7starcloud.com:1935/sathiyamtv/livestreaming/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/LOGO copy01-04-18.png" group-title="",DCN TV
-
-
+#EXTINF:84 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/LOGO copy01-04-18.png" group-title="local",DCN TV
 http://7starcloud.com:1935/dcntv/dcnlive/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Aaryaa Premiere Logo in png_00000_00000.png" group-title="",Aarya Premiere
-
-
-
-
-
+#EXTINF:85 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/Aaryaa Premiere Logo in png_00000_00000.png" group-title="local",Aarya Premiere
 http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Polimer-TV-Logo.png/250px-Polimer-TV-Logo.png" group-title="",Polimer
-
-
-
-
-
-https://load.airtelxstream.in/polimertv/smil:common.smil/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png" group-title="",Mk TV
-
-
+#EXTINF:86 tvg-id="" tvg-name="" tvg-logo="http://mktv.akst.in/wp-content/uploads/2018/10/mk-tv.png" group-title="local",Mk TV
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/Stream(02)/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg" group-title="",Mk Six
-
-
+#EXTINF:87 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mksix.jpg" group-title="local",Mk Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg" group-title="",Mk Tunes
-
-
+#EXTINF:88 tvg-id="" tvg-name="" tvg-logo="https://kccl.tv/sites/default/files/mk%20tunes.jpg" group-title="local",Mk Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/Stream(02)/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/prakalya.png" group-title="",Prakalya TV
-
+#EXTINF:89 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/prakalya.png" group-title="local",Prakalya TV
 http://7starcloud.com:1935/pragalya/pragalyatv/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/e4u8sAHPxFvMbjkzrOx0JI_Euzmlb_bk2FM73a94m2HKe6NmsVcCs_AyWuRDbO5no8Qm=s180-rw" group-title="",Nandhanna TV
-
-rtmp://media.7starcloud.com:1935/nandhanna/nandhannatv
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/v.png" group-title="",Vaanavil Musiq
-
+#EXTINF:90 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/v.png" group-title="local",Vaanavil Musiq
 rtmp://media.7starcloud.com:1935/vaanavilmusic/livestreaming
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/JAWAHAR CHANNEL LOGO BOX.png" group-title="",Jawahar Channel
-
+#EXTINF:91 tvg-id="" tvg-name="" tvg-logo="http://7startv.in/JAWAHAR CHANNEL LOGO BOX.png" group-title="local",Jawahar Channel
 rtmp://streamingbox.7starcloud.com:1935/jawahartv/streamingbox
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/starten.png" group-title="",Starten TV
-
+#EXTINF:92 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/starten.png" group-title="local",Starten TV
 rtmp://media.7starcloud.com:1935/starten/startentv
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jy.png" group-title="",Jayaam TV
-
-
+#EXTINF:93 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/jy.png" group-title="local",Jayaam TV
 http://hdserver.7starcloud.com:1935/jayaamtv/livetv/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/OMTV LOGO copy.png" group-title="",OM Tv(Omalur)
-
+#EXTINF:94 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/OMTV LOGO copy.png" group-title="local",OM Tv(Omalur)
 http://media.7starcloud.com:1935/omtv/livestream/playlist.m3u8
-
-
-
-
 http://account15.livebox.co.in/kovaitvhls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/spice tv final logo.png" group-title="",Spice TV
 
+#EXTINF:95 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/spice tv final logo.png" group-title="local",Spice TV
 http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sr musix logo.png" group-title="",SR Muisx
-
+#EXTINF:96 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/sr musix logo.png" group-title="local",SR Muisx
 http://7starcloud.com:1935/srmusix/srlivetv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/SS_logo (1).png" group-title="",SS TV
-
+#EXTINF:97 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/SS_logo (1).png" group-title="local",SS TV
 http://7starcloud.com:1935/live/sstv/playlist.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="",Sri Krishna TV
-
-
+#EXTINF:98 tvg-id="" tvg-name="" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png" group-title="local",Sri Krishna TV
 rtmp://media.7starcloud.com:1935/erodekrishnatv/livestream
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/babatv.png" group-title="",Sri Baba Tv
-
-
-
+#EXTINF:99 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/babatv.png" group-title="local",Sri Baba Tv
 rtmp://95.216.226.165/babatv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://erodercntv.com/wp-content/themes/rcn_theme/images/logo.png" group-title="",RCN TV
-
-
+#EXTINF:100 tvg-id="" tvg-name="" tvg-logo="https://erodercntv.com/wp-content/themes/rcn_theme/images/logo.png" group-title="local",RCN TV
 https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
 
 
