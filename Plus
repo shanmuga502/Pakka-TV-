@@ -40,7 +40,7 @@ http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/index.m3u8?token=veera4utv
 http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/chunklist_w601757641.m3u8
 
 #EXTINF:11, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Life"  group-title="Tamil",Sun Life
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48021
+http://156.146.43.241:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=veera4utv
 
 #EXTINF:12, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun News"  group-title="Tamil",Sun News
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48022
@@ -56,46 +56,46 @@ http://156.146.43.241:2200/R-EX/TAMIL_RAJ_TV-in/index.m3u8?token=RED
 http://156.146.43.241:2200/R-EX/TAMIL_RAJ_DIGITAL_PLUS-in/index.m3u8?token=veera4utv
 
 #EXTINF:15, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj News"  group-title="Tamil",Raj News
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48036
+http://156.146.43.241:2200/R-EX/TAMIL_RAJ_NEWS-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:16, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Raj Music"  group-title="Tamil",Raj Music
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48044
+http://156.146.43.241:2200/R-EX/TAMIL_RAJ_MUSIX-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:17, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Tv"  group-title="Tamil",Jaya Tv
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48010
+http://156.146.43.241:2200/R-EX/TAMIL_JAYA_TV_HD-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:18, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Plus"  group-title="Tamil",Jaya Plus
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48023
+http://156.146.43.241:2200/R-EX/TAMIL_JAYA_PLUS-in/index.m3u8?token=veera4utv
 
 #EXTINF:19, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Movies"  group-title="Tamil",Jaya Movies
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48052
+http://156.146.43.241:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=RED
 
 
 
 #EXTINF:20, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Max"  group-title="Tamil",Jaya Max
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48069
+http://156.146.43.241:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=veera4utv
 
 #EXTINF:21, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="TataSky Tamil Cinema"  group-title="Tamil",TataSky Tamil Cinema
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48015
+http://156.146.43.241:2200/R-EX/TAMIL_TATA_SKY_TAMIL_CINEMA-in/index.m3u8?token=veera4utv
 
 
 
-#EXTINF:22, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Colors Tamil"  group-title="Tamil",Colors Tamil
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48020
+#EXTINF:22, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Super"  group-title="Tamil",Colors Tamil
+http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:23, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer Tv"  group-title="Tamil",Polimer Tv
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48040
+http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=veera4utv
 
 #EXTINF:24, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer News"  group-title="Tamil",Polimer News
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48033
+http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_NEWS_TV-in/index.m3u8?token=veera4utv
 
 
 
@@ -267,7 +267,7 @@ http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48005
 
 #EXTINF:63, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Star Sports"  group-title="Sports",Star Sports
-http://195.181.172.83:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=veera4utv
 
 #EXTINF:64, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Astro Cricket"  group-title="Sports",Astro Cricket
 http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52370
