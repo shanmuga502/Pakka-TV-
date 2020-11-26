@@ -100,7 +100,7 @@ http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_NEWS-in/index.m3u8?token=veera4utv
 
 
 #EXTINF:25, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Captain Tv"  group-title="Tamil",Captain Tv
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48056
+https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/mE_HL5SRgSrTdJlOHZ24QbgNw5So7GbOI5q97dqICywad2Nf1vaoqi6YkIzWjjRLCogH5ezJzwFqK3ibJhjs7g/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/dynamic_hlsproducer.m3u8?type=live
 
 
 
