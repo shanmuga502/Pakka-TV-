@@ -37,7 +37,7 @@ http://156.146.43.241:2200/R-EX/TAMIL_ZEE_THIRAI-in/index.m3u8?token=veera4utv
 
 
 #EXTINF:10, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Music HD"  group-title="Tamil",Sun Music HD
-http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/chunklist_w601757641.m3u8
+http://156.146.43.241:2200/R-EX/TAMIL_SUN_MUSIC_HD-in/index.m3u8?token=veera4utv
 
 #EXTINF:11, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sun Life"  group-title="Tamil",Sun Life
 http://156.146.43.241:2200/R-EX/TAMIL_SUN_LIFE_TAMIL-in/index.m3u8?token=veera4utv
