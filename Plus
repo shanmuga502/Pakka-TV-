@@ -95,7 +95,7 @@ http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=veera4utv
 http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=veera4utv
 
 #EXTINF:24, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer News"  group-title="Tamil",Polimer News
-http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_NEWS_TV-in/index.m3u8?token=veera4utv
+http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_NEWS-in/index.m3u8?token=veera4utv
 
 
 
@@ -226,17 +226,17 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48067
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48068
 
 #EXTINF:53, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Chutti Tv"  group-title="Tamil",Chutti Tv
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48027
+http://156.146.43.241:2200/R-EX/TAMIL_CHUTTI_TV-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:54, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Discovery Kids"  group-title="Tamil",Discovery Kids
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48028
+http://156.146.43.241:2200/R-EX/TAMIL_DISCOVERY_KIDS_TAMIL-in/index.m3u8?token=veera4utv
 
 
 
 #EXTINF:55, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Sony Yay"  group-title="Tamil",Sony Yay
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48031
+http://156.146.43.241:2200/R-EX/TAMIL_SONY_YAY-in/index.m3u8?token=veera4utv
 
 
 #EXTINF:56, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Discovery Tamil"  group-title="Tamil",Discovery Tamil
@@ -245,15 +245,15 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48011
 
 
 #EXTINF:57, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="National Geo"  group-title="Tamil",National Geo
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48016
+http://156.146.43.241:2200/R-EX/TAMIL_NAT_GEO_TAMIL_HD-in/index.m3u8?token=veera4utv
 
 #EXTINF:58, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="BBC WorldTamil"  group-title="Tamil",BBC WorldTamil
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48017
+http://156.146.43.241:2200/R-EX/TAMIL_SONY_BBC_EARTH_HD-in/index.m3u8?token=veeea4utv
 
 
 
 #EXTINF:59, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="History Tv18"  group-title="Tamil",History Tv18
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48018
+http://156.146.43.241:2200/R-EX/TAMIL_HISTORY_TV_18_HD-in/index.m3u8?token=veera4utv
 
 
 
@@ -264,10 +264,10 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48009
 http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52366
 
 #EXTINF:62, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Star Sports Tamil"  group-title="Sports",Star Sports Tamil
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48005
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=veera4utv
 
 #EXTINF:63, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Star Sports"  group-title="Sports",Star Sports
-http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/index.m3u8?token=veera4utv
+http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token= veera4utv
 
 #EXTINF:64, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Astro Cricket"  group-title="Sports",Astro Cricket
 http://tamilgo-com.stackstaging.com/streamz/istreamtv.php?uid=Raj619_1459852&id=52370
