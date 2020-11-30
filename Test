@@ -1,0 +1,40 @@
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7starcloud.in/1yes.jpg" group-title="",1 Yes News
+http://livematrix.in:1935/1yestv/1yestv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.malaimurasu.in/wp-content/uploads/2020/06/Malaimurasu-Seithigal-Logo-Copy-2.png" group-title="",MalaiMurasu News 
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/news7tamil-black.png" group-title="",News7 Tamil 
+
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live/tamilnews7.smil/chunklist_b1000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.puthiyathalaimurai.com/assets/puthiyathalaimurai-logo.webp" group-title="",Puthiyathalaimurai 
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/puthiyathalaimurai.smil/chunklist_b1800000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lotusnews.tv/img/logo.png" group-title="",Lotus News
+http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/seithigal-tv-black.png" group-title="",Kalaignar Seithigal
+https://versewsa.pc.cdn.bitgravity.com/versewsa/live//kalaignar_tv.smil/chunklist_b500000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/captain-news-black.png" group-title="",Captain News
+https://watchindia.net:8443/live/68653/13548/878.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="",Vaanavil TV
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.imayamtv.com/images/logo.png" group-title="",Imayam TV
+https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kalaignar-tv-black.png" group-title="",Kalaignar TV 
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/Stream(01)/index.m3u8
