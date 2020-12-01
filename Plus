@@ -81,11 +81,6 @@ http://156.146.43.241:2200/R-EX/TAMIL_J_MOVIES-in/index.m3u8?token=RED
 #EXTINF:20, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Jaya Max"  group-title="Tamil",Jaya Max
 http://156.146.43.241:2200/R-EX/TAMIL_JAYA_MAX-in/index.m3u8?token=veera4utv
 
-#EXTINF:21, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="TataSky Tamil Cinema"  group-title="Tamil",TataSky Tamil Cinema
-http://156.146.43.241:2200/R-EX/TAMIL_TATA_SKY_TAMIL_CINEMA-in/index.m3u8?token=veera4utv
-
-
-
 #EXTINF:22, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vijay Super"  group-title="Tamil",Colors Tamil
 http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=veera4utv
 
