@@ -97,13 +97,6 @@ http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_TV-in/index.m3u8?token=veera4utv
 #EXTINF:24, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Polimer News"  group-title="Tamil",Polimer News
 http://156.146.43.241:2200/R-EX/TAMIL_POLIMER_NEWS-in/index.m3u8?token=veera4utv
 
-
-
-#EXTINF:26, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Captain News"  group-title="Tamil",Captain News
-http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48055
-
-
-
 #EXTINF:23, tvg-id="pakkatv" tvg-logo="New Logo" tvg-name="Vasanth Tv"  group-title="Tamil",Vasanth Tv
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=Raj619_1459852&id=48026
 
